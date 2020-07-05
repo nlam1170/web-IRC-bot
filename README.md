@@ -7,7 +7,7 @@ For this project, I implemented two API's.
 
 1. The OpenWeather API returns some weather information given either the name of a valid location of the numerics of a valid zipcode in the USA
 
-2. The AlphaVantage API returns some trading inforamtion about any given valid stock Ticker such as "AAPL" or "IBM"
+2. The AlphaVantage API returns some trading information about any given valid stock Ticker such as "AAPL" or "IBM"
 
 # How to USE
 ## OpenWeather API
