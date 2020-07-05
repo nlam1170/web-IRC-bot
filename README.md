@@ -22,9 +22,9 @@ For example, if wanted to get weather information for Houston, TX, USA, we would
 and the bot would return something like this
 `The weather in Houston is Clouds. The temperature is 94.8°F, with a high of 97.3°F, and a low of 91.7°F.`
 
-if we wanted to get weather information for New York City, New York, USA, we would type
+if we wanted to get weather information for New York City, New York, USA, we would type<br />
 `weather new york city`
-and the bot would return something like this
+and the bot would return something like this<br />
 `The weather in New York is Clear. The temperature is 93.3°F, with a high of 96.3°F, and a low of 89.9°F.`
 
 If you wanted to get weather information using zipcode, you would type something like this. Not that only zipcodes in the USA are valid.
