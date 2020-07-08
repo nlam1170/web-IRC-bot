@@ -5,7 +5,7 @@ Hello and welcome to my CS2336 ProjectOne for KHAN. This project makes use of th
 
 For this project, I implemented two API's.
 
-1. The OpenWeather API returns some weather information given either the name of a valid location of the numerics of a valid zipcode in the USA
+1. The OpenWeather API returns some weather information given either the name of a valid location or the numerics of a valid zipcode in the USA
 
 2. The AlphaVantage API returns some trading information about any given valid stock Ticker such as "AAPL" or "IBM"
 
