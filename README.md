@@ -1,5 +1,5 @@
 # General Overview<br />
-NOTE: I know I left my api keys showing in the code, and that this is bad practice
+NOTE: Substitue OpenWeather API key in `GetWeather.java`
 
 Hello and welcome to my CS2336 ProjectOne for KHAN. This project makes use of the IRC Web Client and REST request technologies in order to demonstrate how to use them in order to create an interactive information getter.
 
