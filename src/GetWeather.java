@@ -9,7 +9,7 @@ import com.google.gson.JsonParser;
 
 public class GetWeather {
 
-    private static final String api_key = "2492a8ef5b6c9b1d0016d3e6eeca8702"; //open weather api key
+    private static final String api_key = "<API_KEY_HERE>"; //open weather api key
     private static final String location_endpoint = "http://api.openweathermap.org/data/2.5/weather?q=%s&APPID=%s"; //endpoint for location info
     private static final String zipcode_endpoint = "http://api.openweathermap.org/data/2.5/weather?zip=%s&APPID=%s";// endfpoint for zipcode info
     
